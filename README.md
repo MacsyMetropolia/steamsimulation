@@ -6,4 +6,5 @@ More info on homepage below:
 https://users.metropolia.fi/~jonniek/steamsimulation/index
   
 Another presentative webpage made with GitHub Pages:
+
 http://macsymetropolia.github.io/steamsimulation/
