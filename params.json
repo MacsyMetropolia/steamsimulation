@@ -1,6 +1,6 @@
 {
   "name": "Steam Simulation",
   "tagline": "Java project created by Joona Mäkinen, Jonnie Käyhty, and Joni Suominen",
-  "body": "### Steam Sale Simulator\r\nJava project created by Joona, Jonnie, and Joni.\r\nSimulates selling of games and displays data about it.\r\n\r\n### Webpage\r\nMore info on homepage below:\r\nhttps://users.metropolia.fi/~jonniek/steamsimulation/index",
+  "body": "### Steam Sale Simulator\r\nSimulates selling of games and displays data about it.\r\n\r\n### Webpage\r\nMore info on homepage below:\r\nhttps://users.metropolia.fi/~jonniek/steamsimulation/index",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
